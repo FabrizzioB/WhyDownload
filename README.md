@@ -1,9 +1,8 @@
-﻿# YouTubeDownloaderApp
-
+# YtDownloader
 YouTube Downloader with GUI written in Python
 
-packages;
-- pytube
-- PySimpleGUI
+Terminal:
 
-pyinstaller --noconsole --onefile .\main.py
+pyinstaller --noconsole --onefile .\YouTubeDownloader.py
+
+pyinstaller --noconsole --onefile YouTubeDownloader.py
